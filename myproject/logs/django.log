@@ -1,0 +1,38 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /kub/ HTTP/1.1" 200 1
+"GET /kub/ HTTP/1.1" 200 1
+"GET /kub/ HTTP/1.1" 200 1
+C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /kub/ HTTP/1.1" 200 1
+"GET /kub/ HTTP/1.1" 200 1
+"GET /kub/ HTTP/1.1" 200 1
+C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\fersapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\fersapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /kub/ HTTP/1.1" 200 1
+"GET /kub/ HTTP/1.1" 200 1
+C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\fersapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /kub/ HTTP/1.1" 200 1
+"GET /kub/ HTTP/1.1" 200 1
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1636
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2771
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2750
+"GET /about/ HTTP/1.1" 200 320
+C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\fersapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /kub/ HTTP/1.1" 200 57
+"GET /kub/ HTTP/1.1" 200 57
+"GET /kub/ HTTP/1.1" 200 57
+"GET /kub/ HTTP/1.1" 200 57
+"GET /kub/ HTTP/1.1" 200 57
+"GET /kub/ HTTP/1.1" 200 57

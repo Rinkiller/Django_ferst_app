@@ -1,0 +1,23 @@
+INFO fghcfgj34444545
+INFO "GET /kub/ HTTP/1.1" 200 1
+INFO fghcfgj34444545
+INFO "GET /kub/ HTTP/1.1" 200 1
+INFO "GET / HTTP/1.1" 200 1636
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2771
+WARNING Not Found: /docs
+WARNING "GET /docs HTTP/1.1" 404 2750
+INFO "GET /about/ HTTP/1.1" 200 320
+INFO C:\Users\rinki\Desktop\GBLesson\HTTPWEBWirst\Djanga\myproject\fersapp\views.py changed, reloading.
+INFO Рандомное число от 1 до 6 равно 1 
+INFO "GET /kub/ HTTP/1.1" 200 57
+INFO Рандомное число от 1 до 6 равно 4 
+INFO "GET /kub/ HTTP/1.1" 200 57
+INFO Рандомное число от 1 до 6 равно 5 
+INFO "GET /kub/ HTTP/1.1" 200 57
+INFO Рандомное число от 1 до 6 равно 4 
+INFO "GET /kub/ HTTP/1.1" 200 57
+INFO Рандомное число от 1 до 6 равно 4 
+INFO "GET /kub/ HTTP/1.1" 200 57
+INFO Рандомное число от 1 до 6 равно 6 
+INFO "GET /kub/ HTTP/1.1" 200 57
