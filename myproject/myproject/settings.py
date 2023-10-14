@@ -20,12 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-kw!=x#fgss2694n6ckvkdt!px)q^3=x#8nd8m5e)79q899p5xi'
+SECRET_KEY = 'django-insecure-u!s74fpn8jdtr#*6vj829gfk1a4#6gf=@vl0)18%r^1yua$0my'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '192.168.50.20']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'fersapp',
+    'app1',
 ]
 
 MIDDLEWARE = [
@@ -122,61 +122,3 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-# LOGGING = {
-#     'version': 1,
-#     'disable_existing_loggers': False,
-#     'handlers': {
-#         'console': {
-#             'class': 'logging.StreamHandler',
-#         },
-#         'file': {
-#             'class': 'logging.FileHandler',
-#             'filename': '/logs/django.log',
-#         },
-#         'file1': {
-#             'class': 'logging.FileHandler',
-#             'filename': '/logs/fersapp.log',
-#         },
-#     },
-#     'loggers': {
-#         'django': {
-#             'handlers': ['console', 'file'],
-#             'level': 'INFO',
-#         },
-#         'fersapp': {
-#             'handlers': ['console', 'file1'],
-#             'level': 'DEBUG',
-#             'propagate': True,
-#         },
-#     },
-# }
-
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-        },
-        'file': {
-            'class': 'logging.FileHandler',
-             'filename': './logs/django.log',
-        },
-        'file1': {
-             'class': 'logging.FileHandler',
-             'filename': './logs/fersapp.log',
-        },
-    },
-    'loggers': {
-        'django': {
-            'handlers': ['console', 'file'],
-            'level': 'INFO',
-        },
-        'fersapp': {
-            'handlers': ['console', 'file1'],
-            'level': 'INFO',
-            'propagate': True,
-        },
-    },
-}
